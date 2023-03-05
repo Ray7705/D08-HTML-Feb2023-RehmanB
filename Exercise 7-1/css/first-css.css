@@ -1,0 +1,25 @@
+html{
+    background-color: lightgray;
+}
+h1{
+    color: white;
+    background-color: red;
+    text-align: center;
+    border-top: 10px solid green;
+}
+#summary{
+    border: 5px green solid;
+    width: 50%;
+    background-color: white;
+}
+#first-p{
+    font-style: italic;
+    width: 80%;
+}
+h2{
+    background-color: white;
+    width: 20%;
+    border-top: 1px solid red;
+    border-left: 4px solid red;
+
+}
