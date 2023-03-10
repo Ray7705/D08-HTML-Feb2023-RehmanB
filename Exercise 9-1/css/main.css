@@ -1,0 +1,39 @@
+div{
+    margin: 15px;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+#pn123{
+    background-color: red;
+}
+
+.cx456{
+    background-color: blue;
+}
+
+div>p{
+    background-color: green;
+}
+
+#container_abc p{
+    background-color: yellow;
+}
+
+div div p{
+    background-color: gray;
+}
+
+[data-a="value_1"]{
+    background-color: black;
+    color: white;
+}
+
+[data-a="value_2"]{
+    color: red;
+}
+div + p{
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
