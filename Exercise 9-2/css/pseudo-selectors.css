@@ -1,0 +1,14 @@
+a:hover{
+    background-color: blue;
+    color: white;
+}
+a{
+    background-color: yellow;
+}
+:target{
+    background-color: greenyellow;
+}
+#collection p:last-child{
+    background-color: blue;
+    color: white;
+}
