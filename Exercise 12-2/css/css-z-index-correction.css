@@ -1,0 +1,16 @@
+#green_square{
+    position: relative;
+    z-index: 3;
+}
+#red_square{
+    position: absolute;
+    z-index: 2;
+    left: 50px;
+    top: 50px;
+}
+#blue_square{
+    position: absolute;
+    z-index: 1;
+    left: 100px;
+    top: 100px;
+}
