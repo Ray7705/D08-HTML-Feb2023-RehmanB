@@ -1,0 +1,36 @@
+.product-thumbnail{
+    border: 2px solid black;
+    width: 26%;
+    padding: 10px;
+    display: inline-block;
+    margin: 10px;
+}
+.catalog{
+    margin: 10px;
+}
+img{
+    position: relative;
+}
+h2{
+    float: right;
+    position: relative;
+    right: 40px;
+}
+
+ul{
+
+    position: relative;
+    left: 150px;
+    bottom: 100px;
+}
+
+.price{
+    color: red;
+    font-size: 30px;
+    float: right;
+}
+
+a{
+    float: right;
+}
+
