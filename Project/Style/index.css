@@ -1,0 +1,16 @@
+div{
+    background-color: rgba(11,41,66,255);
+    font-size: 15px;
+    padding: 30px;
+}
+
+div.intro{
+    text-align: center;
+}
+
+[id^="Ex"]{
+    border: 10px dashed black;
+    width: 40%;
+
+}
+

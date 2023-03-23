@@ -1,0 +1,27 @@
+.mapFrame{
+    text-align: center;
+}
+
+.up-side{
+    border: 10px dashed black;
+}
+
+.input-box{
+    width: 500px;
+    height: 30px;
+}
+
+.button{
+    margin-top: 50px;
+}
+
+.input-box-message-box{
+    padding: 20px;
+}
+
+.down-side{
+    margin: auto;
+}
+
+[class$="details"] {
+  }

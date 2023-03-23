@@ -1,0 +1,25 @@
+.div-product{
+    border: 2px dashed black;
+    display: flex;
+    margin: 20px;
+}
+
+.img-product{
+    width: 70%;
+    height: 70%;
+    padding-right: 30px;
+
+}
+
+.paragrpah-product{
+    justify-content: right;
+}
+
+.div-product:hover{
+    background-color: rgb(4, 59, 92) ;
+}
+
+a{
+    text-decoration: none;
+    color: white
+}
